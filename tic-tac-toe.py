@@ -1,5 +1,4 @@
 from tkinter import *
-#씨발
 def win():
       #only one row
       if list[0]["text"]==list[1]["text"]==list[2]["text"]!="     ":
